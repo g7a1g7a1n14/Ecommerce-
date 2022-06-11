@@ -9,7 +9,7 @@
   text-align: center;
   align-items: center;
   justify-content: center;
-  color: white;
+  color: black;
 }
 
 .banner > h1 {
@@ -25,7 +25,7 @@
 .banner > a > button {
   margin-bottom: 5vmax;
   cursor: pointer;
-  background-color: white;
+  background-color: grey;
   border: 1px solid white;
   border-radius: 0;
   padding: 1vmax;
